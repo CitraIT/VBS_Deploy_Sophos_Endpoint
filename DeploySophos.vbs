@@ -1,5 +1,11 @@
+'----------------------------------------------------------------------------------------------------------------------------------
+' CITRA IT - EXCELÊNCIA EM TI
+' Script para Instalação Automática do Sophos Endpoint Intercept X
+' @Autor: luciano@citrait.com.br
+' @Data: 07/11/2021  Versão 1.0
+'----------------------------------------------------------------------------------------------------------------------------------
 Option Explicit
-' On Error Resume Next
+On Error Resume Next
 
 
 
